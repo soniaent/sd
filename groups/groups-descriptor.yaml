@@ -1,0 +1,14 @@
+- code: administrators
+  name: Administrators
+- code: bpm_admin
+  name: Bpm Admin
+- code: bpm_appraiser
+  name: Bpm Appraiser
+- code: bpm_broker
+  name: Bpm Broker
+- code: bpm_manager
+  name: Bpm Manager
+- code: free
+  name: Free Access
+- code: jeff_bundle_group
+  name: Jeff's Bundle Group
